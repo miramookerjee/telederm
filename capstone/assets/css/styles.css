@@ -1,0 +1,12 @@
+/*#camera {
+	align-items: center;
+	display: flex;
+	padding: 3em 1em;
+	margin: auto;
+}*/
+
+#results {
+	width: 100%
+	height: 75%;
+	filter: saturate(2.2);
+}
